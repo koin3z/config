@@ -4,5 +4,6 @@ configファイルは
 
 の配下に
 - wezterm.lua
-- keybinds.lua  
+- keybinds.lua
+
 の２つに分けて記述。（一緒にしてもいい）
