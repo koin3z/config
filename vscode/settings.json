@@ -49,8 +49,5 @@
     "terminal.integrated.allowChords": false,
     "terminal.integrated.commandsToSkipShell": [
         "-workbench.action.quickOpenView",
-    ],
-    "remote.SSH.remotePlatform": {
-        "koi-edge": "linux"
-    }
+    ]
 }
